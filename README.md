@@ -28,5 +28,11 @@ This dashboard enables stakeholders to:
 - Identify growth opportunities across regions and products  
 - Track customer behavior and improve decision-making  
 
-"C:\Users\91964\Documents\gittttttt\salesreport\Screenshot 2025-08-20 192101.png"
-"C:\Users\91964\Documents\gittttttt\salesreport\Screenshot 2025-08-20 192041.png"
+---
+
+## 📸 Dashboard Preview
+![Sales Dashboard Screenshot]("C:\Users\91964\Documents\gittttttt\salesreport\Screenshot 2025-08-20 192101.png")
+![Sales Dashboard Screenshot]("C:\Users\91964\Documents\gittttttt\salesreport\Screenshot 2025-08-20 192041.png")
+---
+
+## 📂 Repository Structure
