@@ -31,7 +31,7 @@ This dashboard enables stakeholders to:
 ---
 
 ## 📸 Dashboard Preview
-![Sales Dashboard Screenshot](\Screenshot 2025-08-20 192041.png)
-![Sales Dashboard Screenshot](\Screenshot 2025-08-20 192041.png)
+![Sales Dashboard Screenshot](Documents/gittttttt/salesreport/Screenshot 2025-08-20 192041.png)
+![Sales Dashboard Screenshot](/Screenshot 2025-08-20 192041.png)
 ---
 
